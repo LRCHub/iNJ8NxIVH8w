@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "懺悔参り",
+  "base_artist": "羽生まゐご",
+  "createdAt": "2026-02-23T07:00:55.498790Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "懺悔参り",
+      "artist": "羽生まゐご",
+      "has_synced": false,
+      "path": "select/pl_01_懺悔参り_羽生まゐご.txt"
+    }
+  ]
+}
